@@ -23,7 +23,7 @@
 [Add badges for other languages and tools you use]
 
 ## My GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical)
 
 ## 🚀 Some of My Main Projects:
 - [Project Name](Link to Project) - A brief description of what the project does.
