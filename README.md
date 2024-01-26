@@ -1,26 +1,25 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Justin To 👋
 
 ## About Me
-👨‍💻 I'm a passionate Software Developer with a focus on [Your Specialization - e.g., Full-Stack Development, AI, Web Development].
+👨‍💻 I'm a passionate Software Developer with a focus on Software and Game Development.
 
-🎓 Graduated from [Your University] with a degree in [Your Degree].
+🎓 Undergrad from Cal State Long Beach with a degree in Computer Science.
 
-🌱 I’m currently learning [What You're Learning].
+🌱 I’m currently learning C++.
 
-👯 I’m looking to collaborate on [Type of Projects You're Interested in].
+👯 I’m looking to collaborate on any front end or back end development.
 
-🤔 I’m looking for help with [What You Need Help With].
+🤔 I’m looking for help with Front end development.
 
-💬 Ask me about [Topics You're Comfortable Discussing].
+💬 Ask me about game design.
 
-📫 How to reach me: [Your Email].
+📫 How to reach me: tocjustin@gmail.com.
 
-📄 Know about my experiences: [Link to Your Resume or LinkedIn].
+📄 Know about my experiences: https://www.linkedin.com/in/tojustin/.
 
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[Add badges for other languages and tools you use]
 
 ## My GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical)
@@ -30,13 +29,6 @@
 - [Project Name](Link to Project) - A brief description of what the project does.
 - [Project Name](Link to Project) - A brief description of what the project does.
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of your blog post](Link to your blog post)
-- [Title of your blog post](Link to your blog post)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](Your LinkedIn URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your Twitter URL)
-[Add other social media links]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tojustin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/superont)
