@@ -19,6 +19,24 @@
 
 https://leetcode.com/superont/
 
+Effective Code Writing: Ability to develop clean, efficient, and bug-free code.
+
+Principles Comprehension: Strong understanding of software engineering principles for robust development.
+
+Scalability Focus: Expertise in creating scalable solutions that accommodate growth and change.
+
+Maintenance Proficiency: Skilled in developing easily maintainable code for long-term project viability.
+
+Adaptability in Coding: Capacity to adjust and refine code as per evolving project requirements.
+
+Project Decomposition: Competence in breaking down complex projects into manageable tasks.
+
+Collaborative Teamwork: Adept at working in team environments, contributing to collective goals and solutions.
+
+Problem-Solving Skills: Excellent at identifying issues and implementing effective solutions.
+
+Clear Communication: Strong ability to communicate technical concepts clearly to both technical and non-technical stakeholders.
+
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
