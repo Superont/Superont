@@ -1,7 +1,7 @@
 ### Hi, I'm Justin To 👋
 #### Software, Web, & Game Developer | CS Student from Cal State Long Beach
 
-- **🔍 Current Focus:** Enhancing my C++ skills.
+- **🔍 Current Focus:** Enhancing my C++, Rust, and TypeScript skills.
 - **👥 Collaboration:** Open to front-end and back-end projects.
 - **🌟 Interests:** Game Design | Web Development | Software Engineering.
 - **💼 Experience:** [LinkedIn Profile](https://www.linkedin.com/in/tojustin/)
