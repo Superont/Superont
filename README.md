@@ -17,9 +17,10 @@
 ---
 
 #### 📈 Stats:
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&layout=compact&theme=radical&line_height=27" height="180px" alt="GitHub Stats" style="max-width: 100%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superont&layout=compact&theme=radical" alt="Top Languages" height="180px" style="max-width: 100%;"/>
-
+</p>
 ---
 
 #### 🚀 Highlight Projects:
