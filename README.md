@@ -42,7 +42,8 @@ Clear Communication: Strong ability to communicate technical concepts clearly to
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## My GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Some of My Main Projects:
 - [Valiant](https://store.steampowered.com/app/2468650/Valiant/) - An FPS Game built in UE5.
