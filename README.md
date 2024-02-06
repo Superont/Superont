@@ -13,16 +13,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### 📈 Stats:
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&layout=compact&theme=radical&line_height=27" alt="GitHub Stats" style="max-width: 100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&layout=compact&theme=radical&line_height=27" alt="GitHub Stats" style="max-width: 100%;"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superont&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;"/>
     </td>
-  </tr>
-</table>
 
 #### 🚀 Highlight Projects:
 - **[Valiant](https://store.steampowered.com/app/2468650/Valiant/)** - FPS Game | UE5
