@@ -3,7 +3,7 @@
 
 - **🔍 Current Focus:** Enhancing my C++ skills.
 - **👥 Collaboration:** Open to front-end and back-end projects.
-- **🌟 Interests:** Game Design | Software Engineering Principles | Code Scalability & Maintainability.
+- **🌟 Interests:** Game Design | Software Engineering.
 - **💼 Experience:** [LinkedIn Profile](https://www.linkedin.com/in/tojustin/)
 - **📚 Learning Resources:** [LeetCode Profile](https://leetcode.com/superont/)
 - **📧 Contact:** tocjustin@gmail.com
