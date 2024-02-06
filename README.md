@@ -43,7 +43,7 @@ Clear Communication: Strong ability to communicate technical concepts clearly to
 
 ## My GitHub Stats
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical)
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont)](https://github.com/anuraghazra/github-readme-stats)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superont)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ## 🚀 Some of My Main Projects:
 - [Valiant](https://store.steampowered.com/app/2468650/Valiant/) - An FPS Game built in UE5.
