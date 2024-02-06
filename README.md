@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### 📈 Stats:
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical&line_height=27" alt="Justin's GitHub Stats" width="400"/>
