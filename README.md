@@ -1,5 +1,5 @@
 ### Hi, I'm Justin To 👋
-#### Software & Game Developer | CS Graduate from Cal State Long Beach
+#### Software & Game Developer | CS Student from Cal State Long Beach
 
 - **🔍 Current Focus:** Enhancing my C++ skills.
 - **👥 Collaboration:** Open to front-end and back-end projects.
