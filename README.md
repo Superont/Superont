@@ -19,7 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&theme=radical&line_height=27" alt="Justin's GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superont&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superont&theme=radical" alt="Top Languages" width="400"/>
     </td>
   </tr>
 </table>
