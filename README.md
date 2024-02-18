@@ -23,8 +23,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
-
-#### 📈 Stats:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
