@@ -57,17 +57,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Superont/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Dpenate-AD23/AntiPhish-Outlook" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Superont/portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Superont/Password-generator" title="Password Generator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=Password-generator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Superont/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Superont/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Superont/CalendarApp" title="CalendarApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=CalendarApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Superont/Amazon" title="Amazon"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=Amazon&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Superont/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Superont/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Dpenate-AD23/AntiPhish-Outlook" title="AntiPhishing App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dpenate-AD23&repo=AntiPhish-Outlook&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Superont/Discord-Bot" title="Discord-Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Superont&repo=Discord-Bot&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
