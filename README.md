@@ -25,11 +25,6 @@
 ---
 
 #### 📈 Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Superont&show_icons=true&hide_border=true&line_height=27&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="180px" style="max-width: 100%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superont&hide_border=true&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="Top Languages" height="180px" style="max-width: 100%;"/>'
-</p>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -49,7 +44,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Superont&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
