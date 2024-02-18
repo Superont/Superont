@@ -4,8 +4,8 @@
 - **🔍 Current Focus:** Enhancing my C++, Rust, and TypeScript skills.
 - **👥 Collaboration:** Open to front-end and back-end projects.
 - **🌟 Interests:** Game Design | Web Development | Software Engineering.
-- **💼 Experience:** [LinkedIn Profile](https://www.linkedin.com/in/tojustin/)
-- **📚 Learning Resources:** [LeetCode Profile](https://leetcode.com/superont/)
+- **💼 Experience:** [LinkedIn](https://www.linkedin.com/in/tojustin/)
+- **📚 Learning Resources:** [LeetCode](https://leetcode.com/superont/)
 - **📧 Contact:** tocjustin@gmail.com
 
 <a href="https://www.buymeacoffee.com/tojustin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" width="100px" ></a>
