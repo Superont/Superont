@@ -52,8 +52,6 @@
 - **[Nexus](https://www.roblox.com/games/9818210203/Nexus)** - FPS Game | Roblox Studio
 - **[Calendar App](https://github.com/Superont/CalendarApp)** - Android App | Android Studio
 
-- <hr>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
