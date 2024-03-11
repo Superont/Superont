@@ -9,8 +9,6 @@
 - **📧 Contact:** tocjustin@gmail.com
 - [Portfolio](https://www.justinto.dev)
 
-<a href="https://www.buymeacoffee.com/tojustin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" width="100px" ></a>
-
 #### 💻 Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
