@@ -1,12 +1,12 @@
 ### Hi, I'm Justin To
 #### Software, Web, & Game Developer | CS Student from Cal State Long Beach
 
-- **🔍 Current Focus:** Enhancing my C++, Rust, and TypeScript skills.
-- **👥 Collaboration:** Open to front-end and back-end projects.
-- **🌟 Interests:** Game Design | Web Development | Software Engineering.
-- **💼 Experience:** [LinkedIn](https://www.linkedin.com/in/tojustin/)
-- **📚 Learning Resources:** [LeetCode](https://leetcode.com/tocjustin/)
-- **📧 Contact:** tocjustin@gmail.com
+- **Current Focus:** Enhancing my C++, Rust, and TypeScript skills.
+- **Collaboration:** Open to front-end and back-end projects.
+- **Interests:** Game Design | Web Development | Software Engineering.
+- **Experience:** [LinkedIn](https://www.linkedin.com/in/tojustin/)
+- **Learning Resources:** [LeetCode](https://leetcode.com/tocjustin/)
+- **Contact:** tocjustin@gmail.com
 - [Portfolio](https://www.justinto.dev)
 
 #### 💻 Technologies:
@@ -43,7 +43,7 @@
 
 ---
 
-#### 🚀 Highlight Projects:
+#### Highlight Projects:
 - **[Valiant](https://store.steampowered.com/app/2468650/Valiant/)** - FPS Game | UE5
 - **[Nexus](https://www.roblox.com/games/9818210203/Nexus)** - FPS Game | Roblox Studio
 - **[Calendar App](https://github.com/tocjustin/CalendarApp)** - Android App | Android Studio
