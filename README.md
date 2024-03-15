@@ -4,10 +4,6 @@
 - **Current Focus:** Enhancing my C++, Rust, and TypeScript skills
 - **Collaboration:** Open to front-end and back-end projects
 - **Interests:** Game Design | Web Development | Software Engineering
-- **Experience:** [LinkedIn](https://www.linkedin.com/in/tojustin/)
-- **Learning Resources:** [LeetCode](https://leetcode.com/tocjustin/)
-- **Contact:** tocjustin@gmail.com
-- [Portfolio](https://www.justinto.dev)
 
 #### 💻 Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
