@@ -1,9 +1,9 @@
 ### Hi, I'm Justin To
 #### Software, Web, & Game Developer | CS Student from Cal State Long Beach
 
-- **Current Focus:** Enhancing my C++, Rust, and TypeScript skills.
-- **Collaboration:** Open to front-end and back-end projects.
-- **Interests:** Game Design | Web Development | Software Engineering.
+- **Current Focus:** Enhancing my C++, Rust, and TypeScript skills
+- **Collaboration:** Open to front-end and back-end projects
+- **Interests:** Game Design | Web Development | Software Engineering
 - **Experience:** [LinkedIn](https://www.linkedin.com/in/tojustin/)
 - **Learning Resources:** [LeetCode](https://leetcode.com/tocjustin/)
 - **Contact:** tocjustin@gmail.com
