@@ -1,4 +1,4 @@
-### Hi, my name is Justin. I am skilled in C++, C#, C, Python, Java, JavaScript, HTML, CSS, and SQL. I am passionate about software, game, and web development with interest in Cybersecurity and AI.
+### Hi, my name is Justin. I am skilled in C++, C#, C, Python, Java, JavaScript, HTML, CSS, Kotlin and SQL. I am passionate about software, game, and web development with interest in Cybersecurity and AI.
 #### Software, Web, & Game Developer | CS Student from Cal State Long Beach
 
 - **Current Focus:** Enhancing my C++, Rust, and TypeScript skills
