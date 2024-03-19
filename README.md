@@ -1,9 +1,9 @@
-### Hi, I'm Justin To
+### Hi, my name is Justin. I am skilled in C++, C#, C, Python, Java, JavaScript, HTML, CSS, and SQL. I am passionate about software, game, and web development with interest in Cybersecurity and AI.
 #### Software, Web, & Game Developer | CS Student from Cal State Long Beach
 
 - **Current Focus:** Enhancing my C++, Rust, and TypeScript skills
 - **Collaboration:** Open to front-end and back-end projects
-- **Interests:** Game Design | Web Development | Software Engineering
+- **Interests:** Game Development | Web Development | Software Development | Cybersecurity | AI
 
 #### 💻 Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
