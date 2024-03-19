@@ -22,7 +22,7 @@
         <img align="left" height= 300 width=390 src="https://github-readme-stats.vercel.app/api?username=tocjustin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="right" height= 230 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocjustin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="tocjustin" />
+        <img align="right" height= 100 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocjustin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="tocjustin" />
     </a>
   </div>
 </p>
