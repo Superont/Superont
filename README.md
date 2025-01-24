@@ -1,18 +1,41 @@
-### Hi, my name is Justin. I am skilled in C++, C#, C, Python, Java, JavaScript, HTML, CSS, Kotlin and SQL. I am passionate about software, game, and web development with interest in Cybersecurity and AI.
-#### Software, Web, & Game Developer | CS Student from Cal State Long Beach
+<!-- ## <img src="./img.gif" width="600" height="300" /> -->
 
-- **Current Focus:** Enhancing my C++, Rust, and TypeScript skills
-- **Collaboration:** Open to front-end and back-end projects
-- **Interests:** Game Development | Web Development | Software Development | Cybersecurity | AI
+##  About Me
+- Graduate at Cal State Long Beach University
+- Major in Computer Science
+- Minor in Machine Learning & Data Science
+- Always building, always learning!
 
-#### 💻 Technologies:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+<!-- ## 📫 Let's Connect! -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-lee11/) -->
+<!-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aidenlee2027@u.northwestern.edu) -->
+<!-- [![YouTube](https://img.shields.io/badge/-Watch%20me%20learn%20every%20day!-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@aidencodes11) -->
+
+##  Currently Focusing On
+- [**Portfolio**](https://www.justinto.dev/)
+- Leetcode
+- 
+<!-- - Permanently ricing my dev setup -- Neovim x Ghostty btw 🤓 -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+<!-- ## 🌟 Featured Projects -->
+<!-- ### NUFood 🍽️ -->
+<!-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) -->
+<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) An enhanced, streamlined alternative to Northwestern's dining app, offering real-time menu updates, operating hours, and the ability to favorite items so you never miss them. [**Live Link**](https://nufood.me) | [**GitHub**](https://github.com/aiden-lee11/NUFood) -->
+
+<!-- ### ApplyRight 📚 -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) AI-powered platform providing affordable college essay feedback to help students create their best application. [**Live Link**](https://applyrightai.com) --> 
+
+
+<!-- ## 🎯 Goals for 2025 -->
+<!-- - [ ] Learn Zig --> 
+<!-- - [ ] Complete 3 significant backend projects -->
+<!-- - [ ] Contribute to open source projects -->
+<!-- - [ ] Expand my knowledge in ML/Data Science -->
+<!-- - [ ] Secure a summer internship -->
+
+<!-- ## 📊 GitHub Stats --> 
+![Your GitHub stats](https://github-readme-stats-gray-psi-17.vercel.app/api?username=tocjustin&hide=issues&show_icons=true&theme=rose_pine)
