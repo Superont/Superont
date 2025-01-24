@@ -14,7 +14,7 @@
 ##  Currently Focusing On
 - [**Portfolio**](https://www.justinto.dev/)
 - Leetcode
-- 
+
 <!-- - Permanently ricing my dev setup -- Neovim x Ghostty btw 🤓 -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
